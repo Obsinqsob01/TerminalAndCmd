@@ -14,6 +14,7 @@ Los siguientes ejercicios son para practicar los comandos más básicos de cada 
 * date
 * echo
 * free
+* touch
 * exit
 
 ## Comandos básicos de Windows :computer:
@@ -27,8 +28,26 @@ Los siguientes ejercicios son para practicar los comandos más básicos de cada 
 * more
 * date
 * echo
-* free
+* mem
+* fsutil
 * exit
+---
+Linux | Windows
+------|--------
+ls    | dir
+cd    | cd
+mv    | move
+cp    | copy
+rm    | remove
+clear | cls
+pwd   | chdir
+cat   | more
+date  | date
+echo  | echo
+free  | mem
+touch | fsutil
+exit  | exit
+---
 
 ### Ayuda? :thinking:
 Dependiendo del S.O en el que estés tendrás que teclear cada uno de los comandos.
