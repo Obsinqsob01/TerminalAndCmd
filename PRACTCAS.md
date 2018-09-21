@@ -2,35 +2,6 @@
 
 Los siguientes ejercicios son para practicar los comandos más básicos de cada uno de esos sistemas operativos con el propósito de tener los conocimientos mínimos del uso de una terminal para el caso de los sistemas Linux o Mac OS y Windows.
 
-## Comandos básicos de Linux :penguin:
-* ls
-* cd
-* mv
-* cp
-* rm
-* clear
-* pwd
-* cat
-* date
-* echo
-* free
-* touch
-* exit
-
-## Comandos básicos de Windows :computer:
-* dir
-* cd
-* move
-* copy
-* remove
-* cls
-* chdir
-* more
-* date
-* echo
-* mem
-* fsutil
-* exit
 ---
 Linux | Windows
 ------|--------
