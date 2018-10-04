@@ -1,5 +1,7 @@
+![Tux](render1538672841725.gif)
+
 # TerminalAndCmd
-Practicas para usar la terminal en linux y el cmd en windows.
+Practicas para usar la terminal en linux
 
 ## Guia de archivos :newspaper:
 ```
