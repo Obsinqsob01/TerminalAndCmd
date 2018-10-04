@@ -18,6 +18,7 @@ echo  | echo
 free  | mem
 touch | fsutil
 exit  | exit
+ifconfig | ipconfig
 ---
 
 ### Ayuda? :thinking:
