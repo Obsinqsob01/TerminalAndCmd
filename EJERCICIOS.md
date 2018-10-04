@@ -35,3 +35,4 @@
 * Actualiza la lista de repositorios de paquetes
 * Muestra la configuración ip de tu maquina
 * Entra en superusuario
+* Muestra tu historial de comandos
